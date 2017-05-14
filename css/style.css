@@ -241,7 +241,7 @@ div {
 	z-index: 10;
 	left: 436px;
 	top: 980px;
-	font-size: 12px;
+	font-size: 10px;
 	color: #FFF;
 }
         #apDiv26 {
@@ -259,7 +259,7 @@ div {
 	width: 200px;
 	height: 31px;
 	z-index: 12;
-	font-size: 12px;
+	font-size: 10px;
 	color: #FFF;
 	left: 516px;
 	top: 1012px;
@@ -374,7 +374,7 @@ aside{
 }
 footer{
 	width: 1000px;
-	height: 70px;
+	height: 80px;
 	background: #003f5e;
 	float: left;
 	margin-top: 7px;
